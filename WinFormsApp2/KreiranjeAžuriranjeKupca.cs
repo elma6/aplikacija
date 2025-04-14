@@ -4,9 +4,9 @@ using System.Data;
 
 namespace projektni_zadatak_g1
 {
-    public partial class Form1 : Form
+    public partial class KreiranjeAûuriranjeKupca : Form
     {
-        public Form1()
+        public KreiranjeAûuriranjeKupca()
         {
             InitializeComponent();
             PrikaziKupce();
@@ -65,10 +65,44 @@ namespace projektni_zadatak_g1
             }
         }
 
+        private void PopuniTextBoxove()
+        {
+            try
+            {
+                string upit = "SELECT * FROM kupac " +
+                    "WHERE kupac_id = '" + textBoxID_kupca.Text + "' ";
+                MySqlCommand cmd = new MySqlCommand(upit, konekcija.OtvoriKonekciju());
+                MySqlDataReader reader = cmd.ExecuteReader();
+                if (reader.Read())
+                {
+                    if (textBoxIme.Text == "")
+                        textBoxIme.Text = reader["ime"].ToString();
+                    if (textBoxPrezime.Text == "")
+                        textBoxPrezime.Text = reader["prezime"].ToString();
+                    if (textBoxGrad.Text == "")
+                        textBoxGrad.Text = reader["grad"].ToString();
+                    if (textBoxAdresa.Text == "")
+                        textBoxAdresa.Text = reader["adresa"].ToString();
+                    if (textBoxTelefon.Text == "")
+                        textBoxTelefon.Text = reader["telefon"].ToString();
+                    if (textBoxUsername.Text == "")
+                        textBoxUsername.Text = reader["user"].ToString();
+                    if (textBoxäifra.Text == "")
+                        textBoxäifra.Text = reader["pass"].ToString();
+                }
+                reader.Close();
+                konekcija.ZatvoriKonekciju();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
         private void buttonAûuriranjeKupca_Click(object sender, EventArgs e)
         {
             try
             {
+                PopuniTextBoxove();
                 string upit = "UPDATE kupac  " +
                     "SET ime = '" + textBoxIme.Text + "', " +
                     "prezime = '" + textBoxPrezime.Text + "', grad = '" + textBoxGrad.Text + "', adresa = '" + textBoxAdresa.Text + "', " +

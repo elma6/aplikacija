@@ -1,6 +1,6 @@
 ﻿namespace projektni_zadatak_g1
 {
-    partial class Form1
+    partial class KreiranjeAžuriranjeKupca
     {
         /// <summary>
         ///  Required designer variable.
@@ -284,15 +284,15 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Kreiranje / Ažuriranje novog kupca";
             // 
-            // Form1
+            // KreiranjeAžuriranjeKupca
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(760, 772);
             Controls.Add(groupBox1);
             Margin = new Padding(3, 4, 3, 4);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "KreiranjeAžuriranjeKupca";
+            Text = "Kreiranje / Ažuriranje kupca";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
