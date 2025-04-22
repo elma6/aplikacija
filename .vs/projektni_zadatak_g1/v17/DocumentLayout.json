@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\kreiranjenarud\u017Ebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\kreiranjenarud\u017Ebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\kreiranjenarud\u017Ebe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\kreiranjenarud\u017Ebe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\kreiranjenarud\u017Ebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\kreiranjenarud\u017Ebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\kreiranjea\u017Euriranjekupca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\kreiranjea\u017Euriranjekupca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\kreiranjea\u017Euriranjekupca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\kreiranjea\u017Euriranjekupca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\dodavanjea\u017Euriranjeartikla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\dodavanjea\u017Euriranjeartikla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\dbkonekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\dbkonekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|c:\\users\\korisnik\\onedrive\\desktop\\aplikacija\\winformsapp2\\dodavanjea\u017Euriranjeartikla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF70A137-FC6D-47F0-BD50-972D62A59DEF}|WinFormsApp2\\projektni_zadatak_g1.csproj|solutionrelative:winformsapp2\\dodavanjea\u017Euriranjeartikla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KreiranjeNarud\u017Ebe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeNarud\u017Ebe.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\KreiranjeNarud\u017Ebe.Designer.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeNarud\u017Ebe.Designer.cs*",
+              "RelativeToolTip": "WinFormsApp2\\KreiranjeNarud\u017Ebe.Designer.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAMwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:38:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KreiranjeNarud\u017Ebe.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeNarud\u017Ebe.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\KreiranjeNarud\u017Ebe.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeNarud\u017Ebe.cs*",
+              "RelativeToolTip": "WinFormsApp2\\KreiranjeNarud\u017Ebe.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv0AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:13:36.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KreiranjeNarud\u017Ebe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeNarud\u017Ebe.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\KreiranjeNarud\u017Ebe.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeNarud\u017Ebe.cs [Design]*",
+              "RelativeToolTip": "WinFormsApp2\\KreiranjeNarud\u017Ebe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:37:06.434Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KreiranjeA\u017EuriranjeKupca.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs",
+              "RelativeToolTip": "WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:34:00.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KreiranjeA\u017EuriranjeKupca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\KreiranjeA\u017EuriranjeKupca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:14:00.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBKonekcija.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\DBKonekcija.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\DBKonekcija.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\DBKonekcija.cs",
+              "RelativeToolTip": "WinFormsApp2\\DBKonekcija.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:52:39.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DodavanjeA\u017EuriranjeArtikla.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:34:18.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DodavanjeA\u017EuriranjeArtikla.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive\\Desktop\\aplikacija\\WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs",
+              "RelativeToolTip": "WinFormsApp2\\DodavanjeA\u017EuriranjeArtikla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:33:57.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
